@@ -1,0 +1,12 @@
+# Maven build
+/target/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# OS files
+*.log
+*.tmp
+.DS_Store
