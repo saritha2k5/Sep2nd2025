@@ -1,0 +1,1 @@
+Automation testing, also known as automated testing or test automation, is a software testing technique that utilizes specialized tools and scripts to automatically execute predefined tests on software applications.
